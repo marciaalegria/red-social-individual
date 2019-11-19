@@ -1,0 +1,40 @@
+{
+  "name": "no",
+  "version": "1.0.0",
+  "description": "social network proyect for laboratorian cohort scl011",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "jest --coverage",
+    "eslint": "eslint --ext .js src/ test/",
+    "htmlhint": "htmlhint src/*.html",
+    "pretest": "nom run eslint && npm run htmlhint",
+    "deploy": "gh-pages -d src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marciaalegria/red-social-individual.git"
+  },
+  "keywords": [
+    "social",
+    "network",
+    "scl"
+  ],
+  "author": "laboratoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marciaalegria/red-social-individual/issues"
+  },
+  "homepage": "https://github.com/marciaalegria/red-social-individual#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-transform-modules-commonjs": "^7.7.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.6.0",
+    "eslint-plugin-jest": "^23.0.4",
+    "express": "^4.17.1",
+    "gh-pages": "^2.1.1",
+    "htmlhint": "^0.11.0",
+    "jest": "^24.9.0"
+  }
+}
