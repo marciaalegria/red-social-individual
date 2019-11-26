@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616782302696",
+    "firebase_url": "https://moving-916f7.firebaseio.com",
+    "project_id": "moving-916f7",
+    "storage_bucket": "moving-916f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616782302696:android:3543d88d4e47206d84285d",
+        "android_client_info": {
+          "package_name": "com.laboratoria.moving"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616782302696-5aiju1rkbikdt9nqv07k6r5cvlf5v3eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRf2FfZ_7O-LBXWoeJMZveYLxQff8gUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616782302696-5aiju1rkbikdt9nqv07k6r5cvlf5v3eb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

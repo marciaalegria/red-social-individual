@@ -1,0 +1,5 @@
+apply plugin: 'com.android.application'
+dependecies {
+implementation 'com.google.firebase:firebase-analytics:17.2.0'
+}
+apply plugin: 'com.google.gms.google-services'
