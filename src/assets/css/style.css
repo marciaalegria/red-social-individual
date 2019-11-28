@@ -1,0 +1,21 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #F0F0F0;
+    margin: 0;
+    font-family: "Noto Sans", sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+    margin: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}

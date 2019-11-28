@@ -8,7 +8,7 @@ export const templateLogin = () => {
   const contentLogin = `    
   <div class="container login">
     <div class="login-content"> 
-        <h4>Inicia sesión en Sport Match</h4>
+        <h4>Inicia sesión en MovArt</h4>
         <p>Ingresa tu correo electrónico</p>
         <input type="text" id="login-mail" placeholder="Ingresa tu correo electrónico">
         <p>Ingresa tu contraseña</p>
