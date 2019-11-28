@@ -7,7 +7,7 @@ export const createAccount = () => {
   userData.lastName = document.querySelector('#register-lastname').value;
   userData.mail = document.querySelector('#register-mail').value;
   userData.pass1 = document.querySelector('#register-pass1').value;
-  //userData.pass2 = document.querySelector('#register-pass2').value;
+  userData.pass2 = document.querySelector('#register-pass2').value;
 
   if (userData.name == "") {
     alert("debes ingresas un nombre");

@@ -11,5 +11,5 @@ export const templateHome = () => {
         </div>`
 
         containerHome.innerHTML = contentHome;
-    
+        return containerHome;
 }

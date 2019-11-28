@@ -1,5 +1,5 @@
-import { loginGoogle } from './../js/auth.js';
-import { signInWithEmail } from './../js/auth.js';
+import { loginGoogle } from '../js/auth.js';
+import { signInWithEmail } from '../js/auth.js';
 
 export const templateLogin = () => {
   // creamos div que contendrá la plantilla
@@ -31,6 +31,7 @@ export const templateLogin = () => {
     let loginPass = document.getElementById('login-pass').value;
     console.log(loginPass);
     signInWithEmail(loginEmail, loginPass);
+    console.log("clic iniciar sesion")
   });
 
   const btnGoogle = containerLogin.querySelector('#login-google');
