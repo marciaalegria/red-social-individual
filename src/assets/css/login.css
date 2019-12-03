@@ -15,11 +15,11 @@ input {
     border-radius: 5px;
     padding: 15px;
     font-size: 14px;
-    outline: 5px #6570F4;
+    outline: 5px black;
 }
 
 input:focus{
-    border: 2px #6570F4;
+    border: 2px black;
 }
 
 .login-btn {
@@ -30,11 +30,11 @@ input:focus{
     background-color: black;
     border-radius: 5px;
     border: none;
-    outline: 5px #6570F4
+    outline: 5px black
 }
 
 .login-btn:hover {
-    background-color: #6570F4;
+    background-color: black;
 }
 
 .login-google-btn {

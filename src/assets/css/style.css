@@ -78,11 +78,11 @@ button {
 }
 
 .purple-text {
-    color: #6570F4;
+    color: black;
 }
 
 .purple-text:hover {
-    color: #4C0CE2;
+    color: green;
 }
 
 .white-text {
@@ -90,14 +90,14 @@ button {
 }
 
 .white-text:hover {
-    color: #FFCA28
+    color: black
 }
 
 .grey-text{
     color: #575555;
 }
 .grey-text:hover {
-    color: #6570F4;
+    color: black;
 }
 .italic {
     font-style: oblique;
@@ -143,11 +143,11 @@ nav a {
     margin: 10px;
 }
 nav a:hover {
-    color: #6570F4;
+    color: black;
 }
 
 #login-btn, #register-btn {
-    background-color: #FFCA28;
+    background-color: green;
     color: #fff;
     padding: 10px 20px;
     border-radius: 10px;
@@ -157,10 +157,10 @@ nav a:hover {
 }
 
 #register-btn {
-    background-color: #FFA000;
+    background-color: green;
 }
 #login-btn:hover, #register-btn:hover {
-    background-color: #6570F4;
+    background-color: black;
 }
 
 /* FOOTER */
