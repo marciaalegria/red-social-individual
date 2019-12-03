@@ -1,0 +1,70 @@
+
+.banner-content a {
+    text-decoration: none;
+}
+
+h3{
+    margin-bottom: 30px;
+}
+
+.dark-bg{
+    background-color: #242424;
+    color: #fff;
+}
+
+.dark-bg img{
+    max-width: 50px;
+}
+
+.subtitle {
+    max-width: 500px;
+    padding-bottom: 20px;
+}
+
+.left {
+    padding: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.left a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin: 0;
+}
+
+.right {
+    padding: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.right a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin: 0;
+}
+.right i {
+    font-size: 15px;
+}
+
+.columns {
+    display: flex;
+    overflow: hidden;
+    color: #fff;
+    align-items: center;
+}
+#two-columns > div {
+        flex: 1;
+    }
+
+#two-columns img {
+    max-width: 120px;
+    margin-right: 40px;
+}
+
+.ico-logo{
+    margin-top: 60px;
+}
