@@ -15,7 +15,7 @@ export const templateLogin = () => {
         <input type="password" id="login-pass" placeholder="Ingresa tu contraseña">
         <a class="small-text italic center grey-text" href="#">¿Olvidaste tu contraseña?</a>
         <button class="login-btn" id="loginWithEmail">Ingresar</button>
-        <button class="login-google-btn" id="login-google"><img class="google-icon" src="https://firebasestorage.googleapis.com/v0/b/scl010-sport-match.appspot.com/o/google-icon.png?alt=media&token=eb8c0a4f-cc9a-4e0b-a74d-96a1b36ae49e" alt="google-icon">Inicia sesión con Google</button>
+        <button class="login-google-btn" id="login-google"><img class="google-icon" src="https://firebasestorage.googleapis.com/v0/b/scl011-MovArt.appspot.com/o/google-icon.png?alt=media&token=eb8c0a4f-cc9a-4e0b-a74d-96a1b36ae49e" alt="google-icon">Inicia sesión con Google</button>
         <a href="#/create" class="small-text center purple-text margin-top">¿Aún no tienes una cuenta?<br><span class="bold">Regístrate aquí</span></a>
     </div>
   </div>
